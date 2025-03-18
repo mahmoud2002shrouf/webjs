@@ -1,6 +1,0 @@
-2025/03/18-23:25:42.066 3 Reusing MANIFEST /home/mshrouf/project/webjs/server/.wwebjs_auth/session-my-bot/Default/Local Storage/leveldb/MANIFEST-000001
-2025/03/18-23:25:42.067 3 Recovering log #3
-2025/03/18-23:25:42.067 3 Reusing old log /home/mshrouf/project/webjs/server/.wwebjs_auth/session-my-bot/Default/Local Storage/leveldb/000003.log 
-2025/03/18-23:26:42.743 3 Level-0 table #5: started
-2025/03/18-23:26:42.749 3 Level-0 table #5: 18840 bytes OK
-2025/03/18-23:26:42.759 3 Delete type=0 #3
